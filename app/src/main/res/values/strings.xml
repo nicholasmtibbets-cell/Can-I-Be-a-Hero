@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gatebound</string>
+    <string name="choose_hero_title">Choose Your Champion</string>
+    <string name="choose_hero_subtitle">Each hero wields an exclusive skill arsenal against the escalating depths.</string>
+    <string name="begin_descent">Enter the Threshold</string>
+    <string name="class_mage">Mage</string>
+    <string name="class_warrior">Warrior</string>
+    <string name="class_archer">Archer</string>
+    <string name="merchant_title">Wandering Forgemaster</string>
+    <string name="doorway_sealed">Defeat the Section Guardian to unseal the Doorway</string>
+    <string name="doorway_open">Doorway Unsealed! Step onto the Gate to advance</string>
+    <string name="battle_victory">Victory!</string>
+    <string name="battle_defeat">Fallen in the Depths</string>
+    <string name="endgame_victory">Realm Conquered!</string>
+    <string name="new_run">Begin New Run</string>
+</resources>
